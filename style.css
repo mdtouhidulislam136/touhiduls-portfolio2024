@@ -24,11 +24,10 @@ body {
   font-weight: 700;
 }
 
-.section-description{
-color:  #757575;
-text-align: center;
-font-size: 18px;
-
+.section-description {
+  color: #757575;
+  text-align: center;
+  font-size: 18px;
 }
 /* nav related styles */
 
@@ -101,6 +100,22 @@ nav a {
 }
 
 /* main section style */
+
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.about-info-container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+
+.about-info{
+   text-align: center;
+}
 
 /* about section style */
 
