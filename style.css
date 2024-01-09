@@ -153,3 +153,34 @@ font-size: 30px;
 font-weight: 700;
 
 }
+
+.resume-container{
+    display: flex;
+    gap: 50px;
+
+}
+.resume-item-institute{
+    color:#757575;
+}
+
+
+.resume-item-description{
+    color: #757575;
+}
+
+.resume-button{
+   text-align: center;
+   margin-top: 20px;
+}
+
+/* footer style  */
+.footer-container{
+    background-color: #FFF8F3;
+}
+
+.footer-item{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 230px;
+}
